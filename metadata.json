@@ -1,0 +1,8 @@
+{
+  "name": "CloudControl Unified Ecosystem",
+  "description": "A comprehensive dashboard for managing Cloud Control LLC, BlockAide Union, and Colonial Coin & Crypto operations including CRM, project management, and sales.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
